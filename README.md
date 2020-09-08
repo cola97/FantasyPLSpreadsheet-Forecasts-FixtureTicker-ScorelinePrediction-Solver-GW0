@@ -1,0 +1,2 @@
+# FantasyPLSpreadsheet-Forecasts-FixtureTicker-ScorelinePrediction-Solver
+An Excel spreadsheet for FantasyPL. It calculates player form, and team attacking and defending form from past data. This is then used to create a fixture ticker and player attacking forecasts based on form and fixtures. In the FixtureTicker sheet there is a scoreline predictor, which takes the distribution of attacking scores in the fixture ticker, and transforms it to the 2019-20 xG distribution.
